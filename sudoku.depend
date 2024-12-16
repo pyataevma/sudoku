@@ -185,3 +185,92 @@
 	"SudokuCell.h"
 	<string.h>
 
+1663520021 source:d:\davinci\github\projects\sudoku\main.cpp
+	<time.h>
+	"SudokuGame.h"
+	"MainMenu.h"
+	"GameScreen.h"
+
+1663507533 d:\davinci\github\projects\sudoku\include\sudokugame.h
+	<SudocuField.h>
+
+1667904174 d:\davinci\github\projects\sudoku\include\sudocufield.h
+	<ColoredText.h>
+	<string.h>
+	"SudokuCell.h"
+	"ScreenBlock.h"
+
+1663502954 d:\davinci\github\projects\sudoku\include\coloredtext.h
+	"ColoredLine.h"
+
+1663246250 d:\davinci\github\projects\sudoku\include\coloredline.h
+	<string>
+	<iostream>
+	"ColoredWord.h"
+
+1661520904 d:\davinci\github\projects\sudoku\include\coloredword.h
+	<string>
+	<windows.h>
+
+1667903121 d:\davinci\github\projects\sudoku\include\sudokucell.h
+	<string>
+
+1663507533 d:\davinci\github\projects\sudoku\include\screenblock.h
+	<ColoredText.h>
+	<Handler.h>
+
+1663609330 d:\davinci\github\projects\sudoku\include\handler.h
+
+1663511163 d:\davinci\github\projects\sudoku\include\mainmenu.h
+	<MenuBlock.h>
+
+1663515333 d:\davinci\github\projects\sudoku\include\menublock.h
+	<string>
+	"ScreenBlock.h"
+
+1663503545 d:\davinci\github\projects\sudoku\include\gamescreen.h
+	"ScreenBlock.h"
+	<conio.h>
+
+1663328847 source:d:\davinci\github\projects\sudoku\src\coloredline.cpp
+	"ColoredLine.h"
+	"ColoredWord.h"
+
+1663239023 source:d:\davinci\github\projects\sudoku\src\coloredtext.cpp
+	"ColoredText.h"
+	<iostream>
+
+1661522154 source:d:\davinci\github\projects\sudoku\src\coloredword.cpp
+	"ColoredWord.h"
+	<iostream>
+	<windows.h>
+
+1663521843 source:d:\davinci\github\projects\sudoku\src\gamescreen.cpp
+	"GameScreen.h"
+
+1663257053 source:d:\davinci\github\projects\sudoku\src\handler.cpp
+	"Handler.h"
+
+1663610559 source:d:\davinci\github\projects\sudoku\src\mainmenu.cpp
+	"MainMenu.h"
+	<iostream>
+
+1663514376 source:d:\davinci\github\projects\sudoku\src\menublock.cpp
+	"MenuBlock.h"
+
+1663166858 source:d:\davinci\github\projects\sudoku\src\screenblock.cpp
+	"ScreenBlock.h"
+
+1667905581 source:d:\davinci\github\projects\sudoku\src\sudocufield.cpp
+	"SudocuField.h"
+	"SudokuCell.h"
+	<string.h>
+
+1663241847 source:d:\davinci\github\projects\sudoku\src\sudokucell.cpp
+	"SudokuCell.h"
+	<string>
+	<iostream>
+
+1663610658 source:d:\davinci\github\projects\sudoku\src\sudokugame.cpp
+	"SudokuGame.h"
+
